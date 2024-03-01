@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background: #59d5e0;
+    color: #fff;
+    text-align: center;
+    font-size: 1vw;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0.5em;
+    color: #f4538a;
+    text-shadow: 2px 2px 4px #000;
+}
+
+main {
+    margin: 0 3em 0 3em;
+}
+
+.sound {
+    display: inline-block;
+    width: 20%;
+    border: 5px solid #f5dd61;
+    margin: 2px;
+    border-radius: 20px;
+    background: #f4538a;
+}
